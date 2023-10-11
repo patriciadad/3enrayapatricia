@@ -8,6 +8,7 @@ function Square({ value, onSquareClick}) {
   return <button 
     className="square" onClick={onSquareClick} >
       {value}
+        hOLA MUNDO
       
     </button>;
 }
